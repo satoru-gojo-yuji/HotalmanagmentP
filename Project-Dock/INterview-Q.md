@@ -20,3 +20,28 @@ RBI
 [4:15 PM, 5/4/2024] Abhishek Pal: How to add new functionality in your current project
 [4:16 PM, 5/4/2024] Abhishek Pal: Project related questions
 
+TCS 
+Rest contreoller and controller.
+
+JPA and why we JPA hibernet.
+
+Encapsulation real life example related fro your project.
+
+Interface logical questuon.
+
+inheritance logical exceuor.
+
+Spring boot annotation.
+
+MySQL logical qeustuon.
+
+HTML Css JS Anguler to craret the login pager how to versify the user enter data through Js.
+
+Vector and arry list logicla questuon.
+
+treemap and hashmap diff.
+
+finaly why we use ralred project / data base close
+
+what is indexing in SQL
+
