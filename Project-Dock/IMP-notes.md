@@ -66,9 +66,9 @@ public class ExamplePostController {
 }
 
 
-@ResponseBoby - when making the rest api we can not dirctluy return the java obj from the controller casue our clint postmen wont understand it so we use @responsebody to convert out java obj to json. 
+@ResponseBoby - when making the rest api we can not dirctluy return the java obj from the controller casue our clint postmen wont understand it so we use @responsebody to convert out java obj to json. // Get
 
-@Requestbody - when we send a post request it means we are sending some data to server.in the form of json when is reachec to the our controller method in java we want that this data should automaltically be converte in java class obj os that we can use in our code. so @Requestbody come into picture. 
+@Requestbody - when we send a post request it means we are sending some data to server.in the form of json when is reachec to the our controller method in java we want that this data should automaltically be converte in java class obj os that we can use in our code. so @Requestbody come into picture. // Post put 
 
 
 
