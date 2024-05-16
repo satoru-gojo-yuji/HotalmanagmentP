@@ -9,8 +9,10 @@ String
 what is abstaract class and interfce
 discribe your porject 
 microservices advanatge of 
-functinaol interface 
+functinaol interface
+abstact class why we use if we have interface  
 what are the languagest did you use in your project 
+
 
 RBI 
 [4:12 PM, 5/4/2024] Abhishek Pal: How to add the new entity in jpa and Java
